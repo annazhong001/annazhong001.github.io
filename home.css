@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'bitum';
-    src: url('bitum-webfont.woff2') format('woff2'),
-         url('bitum-webfont.woff') format('woff');
+    src: url('./bitum-webfont.woff2') format('woff2'),
+         url('./bitum-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
